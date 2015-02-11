@@ -1,7 +1,9 @@
 package se.eneroth.restclient;
 
+import org.springframework.http.ResponseEntity;
+
 /**
- * Created by Rickard on 2015-02-07.
+ *  Created by Rickard on 2015-02-07.
  */
 public class Greeting {
     public String greeting;
